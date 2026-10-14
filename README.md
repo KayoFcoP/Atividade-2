@@ -5,4 +5,4 @@
 - **Data de Entrega:** [14/10/2026]
 
 ---
-**Professor responsável:** @eduardo97mendes# Atividade-html-css-02
+**Professor responsável:** @eduardo97mendes
